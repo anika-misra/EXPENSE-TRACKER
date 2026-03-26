@@ -62,4 +62,7 @@ Reminds users to track expenses regularly or alerts them when they exceed their 
 6. Exit the program.
 
 # SCREENSHOTS OF THE PROGRAM 
+<img width="1918" height="1079" alt="Screenshot 2026-03-26 131004" src="https://github.com/user-attachments/assets/2468c0a2-9ecf-4551-9bc7-d2a8affc748f" />
+<img width="1919" height="488" alt="Screenshot 2026-03-26 131028" src="https://github.com/user-attachments/assets/b08bdec1-a44f-4eec-9865-510f0fa9e506" />
+
 
