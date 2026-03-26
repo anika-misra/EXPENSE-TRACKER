@@ -35,7 +35,7 @@ Keeps financial data stored safely for future reference.
 3. References- Modules, Academic Papers and Online sites
 
 # STEPS TO INSTALL AND RUN THE PROJECT
-1. Intsall PYTHON
+1. Install PYTHON
 2. Open a new file in IDLE shell.
 3. Create a file name "expensetracker.py".
 4. Write code and save it.
