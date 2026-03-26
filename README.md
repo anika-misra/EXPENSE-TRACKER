@@ -7,23 +7,32 @@ Additionally, it helps users set spending limits and achieve savings goals by mo
 Overall, the objective of an expense tracker is to improve financial awareness, support budgeting, and develop responsible money management habits.
 # FEATURES
 An expense tracker includes several useful features that make managing finances simple and effective:
-Add and Record Expenses
+1. Add and Record Expenses:
 Users can easily enter daily expenses with details like date, amount, and description.
-Categorization of Expenses
+
+2. Categorization of Expenses:
 Expenses can be divided into categories such as food, travel, shopping, bills, and entertainment for better organization.
-Expense Summary
+
+3. Expense Summary:
 Provides a clear overview of total spending on a daily, weekly, or monthly basis.
-Budget Setting
+
+4. Budget Setting:
 Users can set spending limits for different categories to control their expenses.
-Visual Reports
+
+5. Visual Reports:
 Displays data using charts or graphs, making it easier to understand spending patterns.
-Search and Filter Options
+
+6. Search and Filter Options:
 Allows users to find specific transactions quickly based on date or category.
-Edit and Delete Entries
+
+7. Edit and Delete Entries:
 Users can update or remove incorrect expense records when needed.
-User-Friendly Interface
+
+8. User-Friendly Interface:
 Designed to be simple and easy to use, even for beginners.
-Data Storage and Security
+
+9. Data Storage and Security:
 Keeps financial data stored safely for future reference.
-Notifications or Reminders
+
+10. Notifications or Reminders:
 Reminds users to track expenses regularly or alerts them when they exceed their budget.
