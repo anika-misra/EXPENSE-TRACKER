@@ -36,3 +36,29 @@ Keeps financial data stored safely for future reference.
 
 10. Notifications or Reminders:
 Reminds users to track expenses regularly or alerts them when they exceed their budget.
+
+# TOOLS USED
+1. Language- Python
+
+2. Editor- Python IDLE
+
+3. References- Modules, Academic Papers and Online sites
+
+# STEPS TO INSTALL AND RUN THE PROJECT
+1. Intsall PYTHON
+2. Open a new file in IDLE shell.
+3. Create a file name "expensetracker.py".
+4. Write code and save it.
+5. Execute it.
+6. Enter the type of expense and the amount spent.
+7. Get the total expenditure as output.
+
+# INSTRUCTIONS FOR TESTING 
+1. Start the program.
+2. Add expense name .
+3. Add amount spent .
+4. View total expenses.
+5. Delete expense if you want.
+6. Exit the program.
+
+   
