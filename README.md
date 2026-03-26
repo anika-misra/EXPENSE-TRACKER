@@ -61,4 +61,5 @@ Reminds users to track expenses regularly or alerts them when they exceed their 
 5. Delete expense if you want.
 6. Exit the program.
 
-   
+# SCREENSHOTS OF THE PROGRAM 
+
